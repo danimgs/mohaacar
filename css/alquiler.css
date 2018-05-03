@@ -1,0 +1,177 @@
+@font-face {
+    font-family:letras;
+    src: url("../SNICN.TTF");
+}
+#alquilar{
+	
+	width:1200px;
+	height: 800px;
+	float:left;
+	background: url("../imagenes/coche5.jpg");
+}
+#reserva1{
+	width:700px;
+	padding-top:190px;
+	padding-left: 500px;
+
+	
+}
+.reserva2{
+	cursor:pointer;
+  text-align: center;
+	font-family: arial;
+  font-weight: bold;
+  color: #000000 !important;
+  font-size: 14px;
+  text-shadow: 1px 1px 0px #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid #6B553E;
+  background: #EEDFC1;
+  background: linear-gradient(top,  #D69781,  #CFC6C3);
+  background: -ms-linear-gradient(top,  #D69781,  #CFC6C3);
+  background: -webkit-gradient(linear, left top, left bottom, from(#D69781), to(#CFC6C3));
+  background: -moz-linear-gradient(top,  #D69781,  #CFC6C3);
+  text-align: center;
+}
+.reserva2:hover{
+	color: #EBCCA4 !important;
+  background: #FFEBAB;
+  background: linear-gradient(top,  #0A0A0A,  #EED0B3);
+  background: -ms-linear-gradient(top,  #0A0A0A,  #EED0B3);
+  background: -webkit-gradient(linear, left top, left bottom, from(#0A0A0A), to(#EED0B3));
+  background: -moz-linear-gradient(top,  #0A0A0A,  #EED0B3);
+
+}
+#oculto{
+	width:100%;
+	float:left;
+	padding-top: 50px;
+}
+
+.recogida{
+	width: 400px;
+	float:left;
+	padding-left: 200px;
+  
+
+}
+.lugar0{
+	width:300px;
+	float:left;
+  text-align: center;
+	padding-top: 50px;
+
+
+}
+.lugar1{
+	width:300px;
+  float:left;
+  text-align: center;
+  padding-top: 10px;
+	
+}
+
+.lugar2{
+	width:1200px;
+	float:left;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.errores{
+  width:1200px;
+  float:left;
+}
+.lugar3{
+	width:1200px;
+	float:left;
+  
+	padding-top: 50px;
+	
+	
+}
+
+#errorFecha{
+	width:1200px;
+	float:left;
+}
+
+.calendario{
+
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 5px 10px;
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 14px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.calendario:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #ccc;
+   }
+.calendario:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+
+.alquilerSin{
+  width:1200px;
+  float:left;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color:white;
+  font-family:bat;
+}
+
+.boton{
+  
+  width:300px;
+  color:red;
+    border-top: 1px solid #de5259;
+   background: #d66578;
+   background: -webkit-gradient(linear, left top, left bottom, from(#730816), to(#d66578));
+   background: -webkit-linear-gradient(top, #730816, #d66578);
+   background: -moz-linear-gradient(top, #730816, #d66578);
+   background: -ms-linear-gradient(top, #730816, #d66578);
+   background: -o-linear-gradient(top, #730816, #d66578);
+   padding: 2px 4px;
+   -webkit-border-radius: 6px;
+   -moz-border-radius: 6px;
+   border-radius: 6px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 15px;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+   vertical-align: middle;
+}
+
+.boton:hover{
+  border-top-color: #9c0f24;
+  background: #9c0f24;
+  color: #ccc;
+
+}

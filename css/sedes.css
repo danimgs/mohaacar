@@ -1,0 +1,62 @@
+.hr{
+	width:600px;
+	float:left;
+}
+#map {
+  height: 100%;
+}
+.izquierda2{
+	width:600px;
+	float:left;
+}
+
+.derecha2{
+	width:600px;
+	float:left;
+	padding-top: 10px;
+}
+.ladoIzquierdo{
+	float:left;
+	width:600px;
+}
+.imagenConcesionario{
+	float:left;
+	width:300px;
+}
+
+.caracteristicas{
+	width:280px;
+	float:left;
+	color:white;
+	padding-left: 20px;
+	font-size: 20px;
+
+}
+.ladoDerecho{
+	width: 600px;
+	float:left;
+}
+
+.fila1{
+	width:300px;
+	float:left;
+}
+.ubicacion{
+	width:40px;
+	float:left;
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.direccion{
+	float:left;
+	width:240px;
+	padding-left: 10px;
+	padding-top: 20px;
+	color:white;
+}
+.telefono{
+	width:40px;
+	float:left;
+	padding-left: 10px;
+}
+
