@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Concesionario</title>
+	<title>Concesionarios</title>
 	<link rel="stylesheet" type="text/css" href="./css/index.css">
 	<link rel="stylesheet" type="text/css" href="./css/bmw.css">
 	<link rel="stylesheet" type="text/css" href="./css/my-slider.css">
