@@ -25,10 +25,10 @@
 			echo "<td>$row[COMBUSTIBLE]</td>";
 			echo "<td>$row[PRECIO]</td>";
 			echo "</tr>";
-		}	while(($row=oci_fetch_assoc($stid))!=FALSE){
+		}	while(($row=oci_fetch_assoc($stid))!=FALSE);
 
 		echo "</table>";
-		}
+		
 	}
 
 	oci_free_statement($stid);
